@@ -8,7 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fdfg4444/crypto-helpful-app.git"
+    "url": "https://github.com/Fdfg4444/crypto-helpful-app.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
   },
   "author": "",
   "license": "ISC",
